@@ -51,7 +51,7 @@
   "source-code": "源码",
   "query-input": "要查询的名字",
   "search-btn": "查询",
-  "no-data": "现在还没有数据",
+  "no-data": "现在没有数据",
   "no-message": "这头牛很懒什么也没留下",
   "self-record": "{name} 的最高记录. 已上传 {attempts} 次<br/>SCORE:{score} {time}",
   "no-self-record": "没有找到 {name} 的记录(或被过滤)",
